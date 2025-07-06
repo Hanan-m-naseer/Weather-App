@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Weather App",
+  "description": "A sleek, modern weather application that provides real-time weather data and a 5-day forecast for any city, powered by the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
